@@ -5,4 +5,4 @@ Settings repository for idea-based editors hosting templates for reactjs fronten
 
 - go to `Settings` -> `Tools` -> `Settings Repository`
 - add new read-only repository
-- enter repository url: `git@github.com:nalgoo/idea-templates-reactjs.git`
+- enter repository url: `https://github.com/nalgoo/idea-templates-reactjs.git`, use `https` as `git` uris are not supported
