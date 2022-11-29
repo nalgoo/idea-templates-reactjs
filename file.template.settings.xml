@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Nalgoo UI - Component.tsx" file-name="${NAME}" reformat="true" live-template-enabled="false">
+        <template name="Nalgoo UI - Component.tsx.child.0.tsx" file-name="${NAME}.stories" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="Nalgoo UI - Component with forwardRef.tsx" file-name="${NAME}" reformat="true" live-template-enabled="false">
+        <template name="Nalgoo UI - Component with forwardRef.tsx.child.0.tsx" file-name="${NAME}.stories" reformat="true" live-template-enabled="false" />
+      </template>
+      <template name="Nalgoo UI - Component with forwardRef.tsx.child.0.tsx" file-name="${NAME}.stories" reformat="true" live-template-enabled="false" />
+      <template name="Nalgoo UI - Component.tsx.child.0.tsx" file-name="${NAME}.stories" reformat="true" live-template-enabled="false" />
+      <template name="Nalgoo UI - Standalone Component.tsx" file-name="${NAME}" reformat="true" live-template-enabled="false" />
+      <template name="Nalgoo UI - Standalone Component with forwardRef.tsx" file-name="${NAME}" reformat="true" live-template-enabled="false" />
+      <template name="Nalgoo UI - Standalone Story.tsx" file-name="${NAME}.stories" reformat="true" live-template-enabled="false" />
+    </default_templates>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+#parse("Typescript React Component.tsx")
